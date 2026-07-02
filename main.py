@@ -1,7 +1,7 @@
 from data_prep import load_heights, initialize_parameters
 from em_model import run_em, classify
 
-CSV_PATH = "heights.csv"      
+CSV_PATH = "GaltonFamilies.csv"      
 PARENT_COL = None             
 CHILD_COL = None              
 SEED = 0
